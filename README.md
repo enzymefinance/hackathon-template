@@ -19,7 +19,6 @@ The only required variable is ETHEREUM_NODE_MAINNET, e.g. an Alchemy endpoint.If
 ```
 yarn install
 yarn compile
-yarn test
 ```
 
 
