@@ -1,0 +1,25 @@
+# ignore log output
+*.log
+
+# ignore all dotfiles except the whitelisted ones
+.*
+!.env.example
+!.changeset
+!.husky
+!.github
+!.gitignore
+!.gitattributes
+!.prettierignore
+!.prettierrc
+!.eslintignore
+!.solhint.json
+
+# ignore build output
+artifacts/
+cache/
+deployments/
+coverage/
+typechain/
+
+# ignore node modules
+node_modules/
