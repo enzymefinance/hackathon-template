@@ -446,10 +446,10 @@
     ethers "^5.4.6"
     ethers-eip712 "^0.2.0"
 
-"@enzymefinance/testutils@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@enzymefinance/testutils/-/testutils-3.0.1.tgz#2f79a1f96ebb9031586cd9f35b2384772bbc8589"
-  integrity sha512-F4ytSxxhuxeBXQ3wzUtrYtB0+hL6z+r8jVZkYLuwEoJK1Fplfo8NqgNTpPBcJdDtT/K3oduZIpGSZh2cUWH/YQ==
+"@enzymefinance/testutils@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@enzymefinance/testutils/-/testutils-3.0.2.tgz#e2c0dc3e75c6296a4f7a68a47e493560e406a9b9"
+  integrity sha512-V9tKmpx8RU4iq//xQX3bpDrNxdBmjqieS5zT15F71sR0LAoomGnIiVy51X2wubGZSnT0phvbN2C1IvTKJavJ/A==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@enzymefinance/ethers" "^1.0.0"
