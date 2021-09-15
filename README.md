@@ -33,3 +33,4 @@ If the `deploys correctly` test passes, you're good to go :tada:!
 Enzyme Finance docs: https://docs.enzyme.finance/
 Enzyme Finance protocol repository: https://github.com/enzymefinance/protocol
 Enzyme Finance contract addresses: https://contracts.enzyme.finance/
+Docs on Enzyme extensions and plugins: https://docs.enzyme.finance/trust-model/extensions-and-plugins
