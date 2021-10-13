@@ -8,7 +8,7 @@
     "postcompile": "hardhat typechain",
     "typechain": "hardhat typechain",
     "test": "hardhat test",
-    "deploy": "hardhat scr",
+    "deploy": "hardhat run scripts/deploy.ts",
     "typecheck": "tsc --noEmit",
     "lint": "yarn lint:eslint && yarn lint:prettier && yarn lint:solhint",
     "lint:eslint": "eslint \"{*,**/*}.{js,jsx,ts,tsx}\"",
